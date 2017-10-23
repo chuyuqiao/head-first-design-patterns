@@ -1,4 +1,4 @@
-package com.enhance.observer;
+package com.design.patterns.observer;
 
 /**
  * 观察者接口

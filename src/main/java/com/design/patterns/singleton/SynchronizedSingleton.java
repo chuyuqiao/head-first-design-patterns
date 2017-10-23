@@ -1,4 +1,4 @@
-package com.enhance.singleton;
+package com.design.patterns.singleton;
 
 /**
  * synchronized关键字线程安全性能差

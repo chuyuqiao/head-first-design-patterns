@@ -1,4 +1,4 @@
-package com.enhance.singleton;
+package com.design.patterns.singleton;
 
 /**
  * 单件模式

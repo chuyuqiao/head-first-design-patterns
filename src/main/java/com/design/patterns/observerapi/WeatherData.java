@@ -1,4 +1,4 @@
-package com.enhance.observerapi;
+package com.design.patterns.observerapi;
 
 import java.util.Observable;
 

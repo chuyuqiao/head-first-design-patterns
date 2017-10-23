@@ -1,9 +1,7 @@
-package com.enhance.observerapi;
+package com.design.patterns.observerapi;
 
 import java.util.Observable;
 import java.util.Observer;
-
-import com.enhance.observer.Subject;
 
 public class CurrentConditionsDisplay implements Observer {
 

@@ -1,4 +1,4 @@
-package com.enhance.decorator;
+package com.design.patterns.decorator;
 
 /**
  * 浓缩咖啡

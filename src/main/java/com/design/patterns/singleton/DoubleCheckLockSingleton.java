@@ -1,4 +1,4 @@
-package com.enhance.singleton;
+package com.design.patterns.singleton;
 
 /**
  * 双重检查加锁单件

@@ -1,4 +1,4 @@
-package com.enhance.command;
+package com.design.patterns.command;
 
 /**
  * 命令

@@ -1,4 +1,4 @@
-package com.enhance.command;
+package com.design.patterns.command;
 
 import org.junit.Test;
 

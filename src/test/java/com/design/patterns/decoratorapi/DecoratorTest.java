@@ -1,4 +1,4 @@
-package com.enhance.decoratorapi;
+package com.design.patterns.decoratorapi;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

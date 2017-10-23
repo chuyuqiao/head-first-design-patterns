@@ -1,4 +1,4 @@
-package com.enhance.strategy;
+package com.design.patterns.strategy;
 
 /**
  * 飞的具体实现

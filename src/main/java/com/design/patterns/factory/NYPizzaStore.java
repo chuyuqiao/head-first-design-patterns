@@ -1,4 +1,4 @@
-package com.enhance.factory;
+package com.design.patterns.factory;
 
 /**
  * 工厂方法模式 ConcreteCreator

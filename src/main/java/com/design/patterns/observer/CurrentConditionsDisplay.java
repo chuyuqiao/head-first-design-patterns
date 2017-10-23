@@ -1,4 +1,4 @@
-package com.enhance.observer;
+package com.design.patterns.observer;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 	private float temp;

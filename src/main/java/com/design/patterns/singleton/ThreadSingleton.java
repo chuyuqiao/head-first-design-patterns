@@ -1,4 +1,4 @@
-package com.enhance.singleton;
+package com.design.patterns.singleton;
 
 /**
  * 线程安全单件

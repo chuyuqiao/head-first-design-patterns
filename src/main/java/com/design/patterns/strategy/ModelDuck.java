@@ -1,4 +1,4 @@
-package com.enhance.strategy;
+package com.design.patterns.strategy;
 
 public class ModelDuck extends Duck {
 
