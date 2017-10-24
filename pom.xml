@@ -15,14 +15,6 @@
 		<ext.dom4jVersion>2.0.0</ext.dom4jVersion>
 	</properties>
 
-	<!-- <repositories> <repository> <id>caf_repositories</id> <url>http://10.191.9.13:8080/nexus/content/groups/public/</url> 
-		<releases> <enabled>true</enabled> <updatePolicy>interval:5</updatePolicy> 
-		</releases> <snapshots> <enabled>true</enabled> <updatePolicy>always</updatePolicy> 
-		</snapshots> </repository> </repositories> <pluginRepositories> <pluginRepository> 
-		<id>cpic-nexus</id> <url>http://10.191.9.13:8080/nexus/content/groups/public/</url> 
-		<releases> <enabled>true</enabled> </releases> <snapshots> <enabled>true</enabled> 
-		</snapshots> </pluginRepository> </pluginRepositories> -->
-
 	<dependencies>
 
 		<!-- 日志 -->
