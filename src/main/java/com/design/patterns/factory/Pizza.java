@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * 工厂方法模式  Product
+ * abstract product
  * @author chuyuqiao
  *
  */

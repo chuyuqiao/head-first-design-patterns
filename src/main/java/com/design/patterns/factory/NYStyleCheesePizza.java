@@ -2,6 +2,7 @@ package com.design.patterns.factory;
 
 /**
  * 工厂方法模式 ConcreteProduct
+ * concrete product
  * @author chuyuqiao
  *
  */

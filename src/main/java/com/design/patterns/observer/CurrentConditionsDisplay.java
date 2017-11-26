@@ -20,7 +20,6 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement {
 		this.temp = temp;
         this.humidity = humidity;
         display();
-
 	}
 	
 }
